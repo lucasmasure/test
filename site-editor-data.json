@@ -1,6 +1,17 @@
 {
-  "rev": 0,
+  "rev": 1793970967146,
   "global": {},
-  "pages": {},
+  "pages": {
+    "tenues.html": {
+      "edits": {
+        "s1qp2pm0": {
+          "type": "set",
+          "path": "#ct-section>div:1>div:0>div:0>img:0",
+          "order": 1,
+          "src": "https://i.imgur.com/1ZEYeJ5.png"
+        }
+      }
+    }
+  },
   "customPages": {}
 }
