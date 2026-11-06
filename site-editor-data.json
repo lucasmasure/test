@@ -1,6 +1,10 @@
 {
-  "rev": 1793971179593,
-  "global": {},
+  "rev": 1793971229128,
+  "global": {
+    "images": {
+      "CPLsp.png": "https://i.imgur.com/1ZEYeJ5.png"
+    }
+  },
   "pages": {},
   "customPages": {}
 }
